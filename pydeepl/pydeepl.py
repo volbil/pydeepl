@@ -10,7 +10,8 @@ LANGUAGES = {
     'ES': 'Spanish',
     'IT': 'Italian',
     'NL': 'Dutch',
-    'PL': 'Polish'
+    'PL': 'Polish',
+    'JA': 'Japanese'
 }
 
 JSONRPC_VERSION = '2.0'
